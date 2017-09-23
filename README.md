@@ -1,16 +1,19 @@
 ![featured-image](https://github.com/EudesSilva/python-playground/blob/master/python-logo.png)
 
-
+     
 ### Guide to install 
 
- Requirement System:
-     pip install pipenv 
+### Requirement System:
+ 
+     pip install pipenv
      https://pypi.python.org/pypi/pipenv
      https://docs.pipenv.org/
 
- Install Packages:
+ ##### Install Packages:
+ 
      pipenv install
 
- Run App:
-     pipenv run python run.py
-     
+ ##### Run App:
+ 
+     pipenv run python app.py
+ 
