@@ -1,4 +1,4 @@
-![featured-image](https://raw.githubusercontent.com/andela-mnzomo/project-dream-team-one/master/flask-crud-part-one.jpg)
+![featured-image](https://github.com/EudesSilva/python-playground/blob/master/python-logo.png)
 
 
 ### Guide to install 
