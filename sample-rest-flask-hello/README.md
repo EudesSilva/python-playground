@@ -1,16 +1,20 @@
 ### Guide to install 
 
- Requirement System:
+### Requirement System:
+ 
      pip install pipenv 
      https://pypi.python.org/pypi/pipenv
      https://docs.pipenv.org/
 
- Install Packages:
+ ##### Install Packages:
+ 
      pipenv install Flask
 
- Run App:
-     pipenv run python run.py
+ ##### Run App:
+ 
+     pipenv run python app.py
 
- Open Browser:
+ ##### Open Browser:
+ 
      http://127.0.0.1:5000/
      
